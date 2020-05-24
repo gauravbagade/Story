@@ -1,1 +1,3 @@
+alien-plot
+
 this is my first local dipository. i will use this file for learning new git stories forn starting to end.
